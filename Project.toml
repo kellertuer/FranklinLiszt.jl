@@ -2,3 +2,7 @@ name = "FranklinLiszt"
 uuid = "1de2d260-7aba-4d98-a9ce-cc4d1bff3dfe"
 authors = ["Ronny <git@ronnybergmann.net>"]
 version = "0.1.0"
+
+[deps]
+Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
